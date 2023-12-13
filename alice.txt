@@ -1,2 +1,3 @@
 Hi 
-i am changed from old version tyo new version
+I am doing the changes  directly in th git repo and commiting changes
+
